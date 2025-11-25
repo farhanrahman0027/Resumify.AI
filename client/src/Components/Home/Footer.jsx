@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
     return (
         <>
-            <footer className="flex flex-wrap justify-center lg:justify-between overflow-hidden gap-10 md:gap-20 py-16 px-6 md:px-16 lg:px-24 xl:px-32 text-[13px] text-gray-800 bg-gradient-to-r from-slate-400 via-slate-300 to-[#289db9]">
+            <footer className="flex flex-wrap justify-center lg:justify-between overflow-hidden gap-10 md:gap-20 py-16 px-6 md:px-16 lg:px-24 xl:px-32 text-[13px] text-gray-800 bg-gradient-to-r from-slate-400 via-slate-500 to-slate-600">
                 <div className="flex flex-wrap items-start gap-10 md:gap-[30px] xl:gap-[120px]">
                     <a href="#">
                       <img src="/logo.svg" alt="logo" className='h-20 w-auto' />
