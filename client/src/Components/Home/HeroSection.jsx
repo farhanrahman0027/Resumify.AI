@@ -14,9 +14,9 @@ const HeroSection = () => {
         <>
             <div className="min-h-screen pb-20">
                 {/* Navbar */}
-                <nav className="z-50 flex items-center justify-between w-full py-4 px-6 md:px-12 lg:px-24 xl:px-40 text-sm">
+                <nav className="z-50 flex items-center justify-between max-w-7xl py-4 px-6 md:px-12 lg:px-24 xl:px-40 text-sm">
                     <a href="#">
-                       <img src="/logo.svg" alt="logo" className='h-18 w-auto '/>
+                       <img src="/logo.svg" alt="logo" className='h-22 w-auto '/>
                     </a>
 
                     <div className="hidden md:flex items-center gap-8 transition duration-500 text-slate-800">
